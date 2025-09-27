@@ -6659,6 +6659,7 @@ const union {
         .ATTRACT = TRUE,
         .CUT = TRUE,
         .STRENGTH = TRUE,
+        .SURF = TRUE,
         .FLASH = TRUE,
         .ROCK_SMASH = TRUE,
     } },
